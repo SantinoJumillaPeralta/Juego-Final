@@ -1,0 +1,19 @@
+﻿  Bullet.cpp
+  Enemie.cpp
+  Main.cpp
+  Player.cpp
+  UISounds.cpp
+  Generando código...
+C:\Users\santino\Desktop\Cosmico Peligroso\Cosmico Peligroso\Bullet.hpp(1,10): error C1083: No se puede abrir el archivo incluir: 'bits/stdc++.h': No such file or directory
+  (compilando archivo de origen "Bullet.cpp")
+  
+C:\Users\santino\Desktop\Cosmico Peligroso\Cosmico Peligroso\Enemie.hpp(1,10): error C1083: No se puede abrir el archivo incluir: 'bits/stdc++.h': No such file or directory
+  (compilando archivo de origen "Enemie.cpp")
+  
+C:\Users\santino\Desktop\Cosmico Peligroso\Cosmico Peligroso\Main.cpp(1,10): error C1083: No se puede abrir el archivo incluir: 'bits/stdc++.h': No such file or directory
+C:\Users\santino\Desktop\Cosmico Peligroso\Cosmico Peligroso\Player.hpp(1,10): error C1083: No se puede abrir el archivo incluir: 'bits/stdc++.h': No such file or directory
+  (compilando archivo de origen "Player.cpp")
+  
+C:\Users\santino\Desktop\Cosmico Peligroso\Cosmico Peligroso\UISounds.hpp(1,10): error C1083: No se puede abrir el archivo incluir: 'bits/stdc++.h': No such file or directory
+  (compilando archivo de origen "UISounds.cpp")
+  
